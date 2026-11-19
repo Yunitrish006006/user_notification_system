@@ -1,0 +1,8 @@
+name: user_notification_system
+description: Transport-neutral push conversation routing for Taiwan Brawl.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: ^3.11.1
+dev_dependencies:
+  test: ^1.25.0
